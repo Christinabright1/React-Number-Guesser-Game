@@ -1,0 +1,50 @@
+.user {
+  grid-column: 2 / 4;
+  grid-row: 2;
+  background: lightblue;
+}
+
+input[type="number"] {
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 26px;
+}
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.button {
+  border: 1px solid lightblue;
+  width: 35px;
+  margin-top: 10px;
+  font-size: 26px;
+}
+.button1 {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.button2 {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.makeGuess {
+  background: #1e90ff;
+  margin-top: 10px;
+  padding: 10px;
+  color: white;
+  border: none;
+}
+
+.greyBackground {
+  background: lightgrey;
+  color: black;
+}
+
+.blueBackground {
+  background: #1e90ff;
+  color: white;
+}

@@ -1,0 +1,19 @@
+.nextRound {
+  background: lightgrey;
+  margin-top: 20px;
+  padding: 10px;
+  color: black;
+  border: none;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.greyBackground {
+  background: lightgrey;
+  color: black;
+}
+
+.blueBackground {
+  background: #1e90ff;
+  color: white;
+}

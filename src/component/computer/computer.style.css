@@ -1,0 +1,4 @@
+.computer {
+  grid-column: 1 / 2;
+  background: lightgrey;
+}
